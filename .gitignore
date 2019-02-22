@@ -1,4 +1,5 @@
 # History files
+.ipynb_checkpoints/
 .Rhistory
 .Rapp.history
 
